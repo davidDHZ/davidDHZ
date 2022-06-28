@@ -1,4 +1,6 @@
-### Hi there 👋
+### Welcome my profile! 👋
+
+Hi! i'm David, i love programming languages and like html, css, python and js, all the programming languages mentioned I am learning.
 
 <!--
 **davidDHZ/davidDHZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
